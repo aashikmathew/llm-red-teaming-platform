@@ -1,30 +1,28 @@
-# 🚀 LLM Red Teaming System - Professional Security Assessment Platform
+#  LLM Red Teaming System -  Security Assessment Platform
 
-> **Made with ❤️ by Aashik Mathew Prosper**
-
-A comprehensive, enterprise-grade red teaming system for evaluating Large Language Models (LLMs) with real-time monitoring, automated analysis, and professional reporting capabilities.
+A comprehensive, enterprise-grade red teaming system for evaluating Large Language Models (LLMs) with real-time monitoring, automated analysis, and reporting capabilities.
 
 ## ✨ Features Overview
 
-### 🎯 **Core Red Teaming Capabilities**
+###  **Core Red Teaming Capabilities**
 - **5 Attack Categories**: Jailbreak, Bias, Hallucination, Privacy, Manipulation
 - **4 LLM Providers**: OpenAI, Anthropic, Google Gemini, HuggingFace
 - **Automated Testing**: Comprehensive prompt evaluation with configurable parameters
 - **Real-time Monitoring**: Live WebSocket updates during assessment execution
 
-### 🎨 **Professional User Interface**
+###  **Professional User Interface**
 - **Modern Design**: Beautiful gradient backgrounds, smooth animations, and professional styling
 - **Responsive Layout**: Optimized for desktop and mobile devices
 - **Interactive Elements**: Hover effects, loading animations, and smooth transitions
 - **Professional Branding**: Custom attribution and enterprise-grade appearance
 
-### 📊 **Advanced Analytics & Reporting**
+###  **Advanced Analytics & Reporting**
 - **Real-time Metrics**: Live progress tracking and performance indicators
 - **Interactive Charts**: Chart.js powered visualizations for data analysis
 - **Comprehensive Reports**: Professional PDF generation with detailed findings
 - **Risk Assessment**: Automated vulnerability scoring and risk level classification
 
-### 🔒 **Security & Compliance**
+###  **Security & Compliance**
 - **API Key Management**: Secure credential handling with visibility toggle
 - **Connection Validation**: Pre-assessment connectivity testing
 - **Audit Trail**: Complete session logging and result tracking
@@ -300,6 +298,5 @@ This project is developed for educational and research purposes in AI security. 
 
 **Developed with ❤️ by Aashik Mathew Prosper**
 
-*Advanced AI Security Research & Development*
 
 For questions, support, or collaboration opportunities, please reach out through the project repository.
