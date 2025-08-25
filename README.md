@@ -1,5 +1,7 @@
 #  LLM Red Teaming System -  Security Assessment Platform
 
+(BLOCK CONVOY - ASSESSMENT)
+
 A comprehensive, enterprise-grade red teaming system for evaluating Large Language Models (LLMs) with real-time monitoring, automated analysis, and reporting capabilities.
 
 ## ✨ Features Overview
@@ -52,7 +54,7 @@ A comprehensive, enterprise-grade red teaming system for evaluating Large Langua
 └─────────────────┘    └─────────────────┘    └─────────────────┘
 ```
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. **Environment Setup**
 ```bash
