@@ -1,0 +1,20 @@
+# Environment and secrets
+.env
+
+# Reports and generated artifacts
+reports/
+charts/
+
+# Python cache and build
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
